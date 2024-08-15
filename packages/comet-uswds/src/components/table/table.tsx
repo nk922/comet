@@ -168,7 +168,7 @@ export const Table = ({
                       : undefined
                   }
                 >
-                  {column.name}
+                  {column.name+'cn'}
                 </th>
               ))}
           </tr>
